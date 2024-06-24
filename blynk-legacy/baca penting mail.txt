@@ -1,0 +1,16 @@
+# catatan
+# rubah nama file blynk.bak menjadi blynk.bat
+# batch file biasanya dihapus sama anti virus
+# java yang digunakan pada video
+# jre-8u301-windows-i586
+
+# copy konfigurasi dibawah jika menggunakan mail notifikasi ke file 
+# mail.properties dan simpan di folder yang sama dimana blynk dieksekusi
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
+mail.smtp.host=smtp.gmail.com
+mail.smtp.port=587
+mail.smtp.username=example@gmail.com
+mail.smtp.password=
+mail.smtp.connectiontimeout=30000
+mail.smtp.timeout=120000

@@ -1,0 +1,3 @@
+@echo off
+start Apajar -jar c:\blynk\ituapa\BlynkServer.jar -dataFolder c:\Blynk\ituapa
+exit

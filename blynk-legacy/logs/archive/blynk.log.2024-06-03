@@ -1,0 +1,22 @@
+17:21:27.186 INFO - Using data dir '.\data'
+17:21:27.282 INFO - Region : local. Host : 192.168.68.112.
+17:21:28.119 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+17:21:28.369 INFO - Reports : 0
+17:21:28.369 INFO - Didn't find custom user certificates.
+17:21:28.372 INFO - Didn't find Let's Encrypt certificates.
+17:21:28.372 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+17:21:28.372 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\vannyezha\Downloads\blynk\ituapa', key : 'C:\Users\vannyezha\Downloads\blynk\ituapa') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+17:21:29.636 INFO - HTTP API and WebSockets server listening at 8082 port.
+17:21:29.638 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+17:21:29.640 INFO - Mqtt hardware server listening at 8440 port.
+17:30:08.405 INFO - Using data dir '.\data'
+17:30:08.871 INFO - Region : local. Host : 192.168.68.112.
+17:30:09.527 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+17:30:09.574 INFO - Reports : 0
+17:30:09.575 INFO - Didn't find custom user certificates.
+17:30:09.576 INFO - Didn't find Let's Encrypt certificates.
+17:30:09.577 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+17:30:09.577 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\vannyezha\Downloads\blynk\ituapa', key : 'C:\Users\vannyezha\Downloads\blynk\ituapa') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+17:30:10.632 INFO - HTTP API and WebSockets server listening at 8082 port.
+17:30:10.634 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+17:30:10.636 INFO - Mqtt hardware server listening at 8440 port.

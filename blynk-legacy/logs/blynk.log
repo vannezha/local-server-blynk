@@ -1,0 +1,55 @@
+11:46:10.570 INFO - Using data dir '.\data'
+11:46:11.254 INFO - Region : local. Host : 192.168.1.23.
+11:46:12.428 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+11:46:12.487 INFO - Reports : 0
+11:46:12.488 INFO - Didn't find custom user certificates.
+11:46:12.491 INFO - Didn't find Let's Encrypt certificates.
+11:46:12.491 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+11:46:12.491 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\vannyezha\Downloads\blynk\ituapa', key : 'C:\Users\vannyezha\Downloads\blynk\ituapa') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+11:46:14.366 INFO - HTTP API and WebSockets server listening at 8082 port.
+11:46:14.369 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+11:46:14.371 INFO - Mqtt hardware server listening at 8440 port.
+11:49:27.735 INFO - Using data dir '.\data'
+11:49:28.500 INFO - Region : local. Host : 192.168.1.23.
+11:49:29.616 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+11:49:29.674 INFO - Reports : 0
+11:49:29.674 INFO - Didn't find custom user certificates.
+11:49:29.677 INFO - Didn't find Let's Encrypt certificates.
+11:49:29.677 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+11:49:29.677 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\vannyezha\Downloads\blynk\ituapa', key : 'C:\Users\vannyezha\Downloads\blynk\ituapa') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+11:49:31.852 INFO - HTTP API and WebSockets server listening at 8082 port.
+11:49:31.854 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+11:49:31.857 INFO - Mqtt hardware server listening at 8440 port.
+11:54:45.279 INFO - Using data dir '.\data'
+11:54:45.914 INFO - Region : local. Host : 192.168.137.235.
+11:54:46.961 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+11:54:47.024 INFO - Reports : 0
+11:54:47.025 INFO - Didn't find custom user certificates.
+11:54:47.028 INFO - Didn't find Let's Encrypt certificates.
+11:54:47.028 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+11:54:47.029 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\vannyezha\Downloads\blynk\ituapa', key : 'C:\Users\vannyezha\Downloads\blynk\ituapa') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+11:54:48.886 INFO - HTTP API and WebSockets server listening at 8082 port.
+11:54:48.889 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+11:54:48.891 INFO - Mqtt hardware server listening at 8440 port.
+12:03:31.188 INFO - Using data dir '.\data'
+12:03:31.837 INFO - Region : local. Host : 192.168.137.235.
+12:03:32.842 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+12:03:32.922 INFO - Reports : 0
+12:03:32.923 INFO - Didn't find custom user certificates.
+12:03:32.926 INFO - Didn't find Let's Encrypt certificates.
+12:03:32.926 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+12:03:32.926 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\vannyezha\Downloads\blynk\ituapa', key : 'C:\Users\vannyezha\Downloads\blynk\ituapa') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+12:03:34.590 INFO - HTTP API and WebSockets server listening at 8082 port.
+12:03:34.592 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+12:03:34.595 INFO - Mqtt hardware server listening at 8440 port.
+12:03:58.740 INFO - Using data dir '.\data'
+12:03:59.345 INFO - Region : local. Host : 192.168.137.235.
+12:04:00.442 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+12:04:00.544 INFO - Reports : 0
+12:04:00.545 INFO - Didn't find custom user certificates.
+12:04:00.549 INFO - Didn't find Let's Encrypt certificates.
+12:04:00.549 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+12:04:00.549 WARN - ATTENTION. Server certificate paths (cert : 'C:\Users\vannyezha\Downloads\blynk\ituapa', key : 'C:\Users\vannyezha\Downloads\blynk\ituapa') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+12:04:02.304 INFO - HTTP API and WebSockets server listening at 8082 port.
+12:04:02.307 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+12:04:02.309 INFO - Mqtt hardware server listening at 8440 port.
